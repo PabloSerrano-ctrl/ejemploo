@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Ejemplos 2.09" Database="" Version="10000">
+  <Project Name="Ejemplos2.09" Path="Ejemplos2.09/Ejemplos2.09.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Ejemplos2.09" ConfigName="Debug"/>
+      <Project Name="Ejemplos2.09" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Ejemplos2.09" ConfigName="Release"/>
+      <Project Name="Ejemplos2.09" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
